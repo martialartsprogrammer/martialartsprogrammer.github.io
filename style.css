@@ -1,0 +1,77 @@
+.yingyangone{
+
+    display:flex;
+    
+   
+    justify-content: center;
+
+
+}
+
+.white{
+
+    color:white;
+}
+
+
+
+.colorWhiteAgain{
+
+    color:white
+}
+
+
+.colorSilver{
+
+    background-color: silver;
+}
+
+
+.silverColor{
+
+    background-color: silver;
+}
+
+
+.colorSilverr{
+
+    background-color: silver;
+}
+
+
+.colorBlue{
+
+    color:blue;
+
+    text-align: center;
+}
+
+
+
+.colorWhite{
+
+    color:White;
+}
+
+
+
+.colorBluetwo{
+
+    color:Blue
+
+    
+}
+
+
+nav{
+
+    text-align: center;
+}
+
+
+footer{
+
+
+   background-color: lightgreen;
+}
+
